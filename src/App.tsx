@@ -2,7 +2,7 @@
 export default function App() {
   return (
     <>
-      Olá Mundo!
+      <div className="text-pink-dark">Olá Mundo!</div>
     </>
   )
 }
