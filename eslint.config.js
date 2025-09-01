@@ -22,6 +22,7 @@ export default tseslint.config([
     rules: {
     'react-refresh/only-export-components': 'off',
     'react-refresh/sort-comp': 'off',
+    'no-unused-vars': 'on',
   }
   },
   
